@@ -1,5 +1,2 @@
 # Banvaaz
- Responsive landing page using HTML & CSS & JS. 
- As my first project, it's a responsive landing page of a Persian shopping website which is mostly created with html and css.
-# Acknowledgements
- Thanks to @sahebmohammadi for helping me to improve my coding skills.  
+ Responsive web page using HTML, CSS and JavaScript. 
